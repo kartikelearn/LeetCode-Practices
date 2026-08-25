@@ -9,6 +9,8 @@ class Solution:
         for c in nums3:
              for d in nums4:
                 target=-(c+d)
-                if target in sum_map:
-                    count+=sum_map[target]
+                # if target in sum_map:
+                #     count+=sum_map[target]
+                count += sum_map.get(-(c+d), 0)
+
         return count
