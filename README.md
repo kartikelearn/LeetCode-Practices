@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/kartikelearn/LeetCode-Practices/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/kartikelearn/LeetCode-Practices/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/kartikelearn/LeetCode-Practices/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/kartikelearn/LeetCode-Practices/tree/master/0383-ransom-note) |
@@ -17,19 +18,30 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/kartikelearn/LeetCode-Practices/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/kartikelearn/LeetCode-Practices/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/kartikelearn/LeetCode-Practices/tree/master/0242-valid-anagram) |
 ## Array
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/kartikelearn/LeetCode-Practices/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/kartikelearn/LeetCode-Practices/tree/master/0217-contains-duplicate) |
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/kartikelearn/LeetCode-Practices/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/kartikelearn/LeetCode-Practices/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/kartikelearn/LeetCode-Practices/tree/master/0387-first-unique-character-in-a-string) |
 ## Queue
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/kartikelearn/LeetCode-Practices/tree/master/0387-first-unique-character-in-a-string) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/kartikelearn/LeetCode-Practices/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/kartikelearn/LeetCode-Practices/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
