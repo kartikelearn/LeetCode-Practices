@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0205-isomorphic-strings](https://github.com/kartikelearn/LeetCode-Practices/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/kartikelearn/LeetCode-Practices/tree/master/0242-valid-anagram) |
+| [0345-reverse-vowels-of-a-string](https://github.com/kartikelearn/LeetCode-Practices/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/kartikelearn/LeetCode-Practices/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/kartikelearn/LeetCode-Practices/tree/master/0387-first-unique-character-in-a-string) |
 ## Sorting
@@ -51,5 +52,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0345-reverse-vowels-of-a-string](https://github.com/kartikelearn/LeetCode-Practices/tree/master/0345-reverse-vowels-of-a-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/kartikelearn/LeetCode-Practices/tree/master/0977-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->
