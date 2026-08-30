@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/kartikelearn/LeetCode-Practices/tree/master/0015-3sum) |
 | [0169-majority-element](https://github.com/kartikelearn/LeetCode-Practices/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/kartikelearn/LeetCode-Practices/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/kartikelearn/LeetCode-Practices/tree/master/0242-valid-anagram) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/kartikelearn/LeetCode-Practices/tree/master/0015-3sum) |
 | [0169-majority-element](https://github.com/kartikelearn/LeetCode-Practices/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/kartikelearn/LeetCode-Practices/tree/master/0217-contains-duplicate) |
 | [0977-squares-of-a-sorted-array](https://github.com/kartikelearn/LeetCode-Practices/tree/master/0977-squares-of-a-sorted-array) |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/kartikelearn/LeetCode-Practices/tree/master/0015-3sum) |
 | [0345-reverse-vowels-of-a-string](https://github.com/kartikelearn/LeetCode-Practices/tree/master/0345-reverse-vowels-of-a-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/kartikelearn/LeetCode-Practices/tree/master/0977-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->
