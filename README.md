@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/kartikelearn/LeetCode-Practices/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/kartikelearn/LeetCode-Practices/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/kartikelearn/LeetCode-Practices/tree/master/0283-move-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/kartikelearn/LeetCode-Practices/tree/master/0485-max-consecutive-ones) |
 | [0977-squares-of-a-sorted-array](https://github.com/kartikelearn/LeetCode-Practices/tree/master/0977-squares-of-a-sorted-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/kartikelearn/LeetCode-Practices/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Counting
