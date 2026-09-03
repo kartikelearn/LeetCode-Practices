@@ -1,6 +1,6 @@
 class Solution:
     def singleNumber(self, nums: List[int]) -> int:
-        seen=set()
+        # seen=set()
         result=0
         for num in nums:
             result^=num
