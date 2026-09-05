@@ -3,13 +3,10 @@ class Solution:
         """
         Do not return anything, modify nums in-place instead.
         """
-        balls=[0]*3
+        counts=[0]*3
         for colors in nums:
-            balls[colors]+=1
-        r,w,b=balls
+            counts[colors]+=1
+        r,w,b=counts
         nums[:r]=r*[0]
         nums[r:r+w]=w*[1]
         nums[r+w:]=b*[2]
-
-            
-        
