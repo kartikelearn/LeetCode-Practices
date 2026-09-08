@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/kartikelearn/LeetCode-Practices/tree/master/0189-rotate-array) |
+| [3870-count-commas-in-range](https://github.com/kartikelearn/LeetCode-Practices/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/kartikelearn/LeetCode-Practices/tree/master/3875-construct-uniform-parity-array-i) |
 ## Dynamic Programming
 |  |
