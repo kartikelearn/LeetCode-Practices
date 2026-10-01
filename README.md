@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/kartikelearn/LeetCode-Practices/tree/master/0189-rotate-array) |
+| [0509-fibonacci-number](https://github.com/kartikelearn/LeetCode-Practices/tree/master/0509-fibonacci-number) |
 | [3870-count-commas-in-range](https://github.com/kartikelearn/LeetCode-Practices/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/kartikelearn/LeetCode-Practices/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/kartikelearn/LeetCode-Practices/tree/master/3875-construct-uniform-parity-array-i) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kartikelearn/LeetCode-Practices/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0509-fibonacci-number](https://github.com/kartikelearn/LeetCode-Practices/tree/master/0509-fibonacci-number) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -126,4 +128,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/kartikelearn/LeetCode-Practices/tree/master/0187-repeated-dna-sequences) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/kartikelearn/LeetCode-Practices/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/kartikelearn/LeetCode-Practices/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
