@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/kartikelearn/LeetCode-Practices/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/kartikelearn/LeetCode-Practices/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/kartikelearn/LeetCode-Practices/tree/master/0242-valid-anagram) |
+| [0344-reverse-string](https://github.com/kartikelearn/LeetCode-Practices/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/kartikelearn/LeetCode-Practices/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/kartikelearn/LeetCode-Practices/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/kartikelearn/LeetCode-Practices/tree/master/0387-first-unique-character-in-a-string) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/kartikelearn/LeetCode-Practices/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/kartikelearn/LeetCode-Practices/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/kartikelearn/LeetCode-Practices/tree/master/0283-move-zeroes) |
+| [0344-reverse-string](https://github.com/kartikelearn/LeetCode-Practices/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/kartikelearn/LeetCode-Practices/tree/master/0345-reverse-vowels-of-a-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/kartikelearn/LeetCode-Practices/tree/master/0977-squares-of-a-sorted-array) |
 ## Math
