@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/kartikelearn/LeetCode-Practices/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/kartikelearn/LeetCode-Practices/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/kartikelearn/LeetCode-Practices/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/kartikelearn/LeetCode-Practices/tree/master/0509-fibonacci-number) |
 | [3870-count-commas-in-range](https://github.com/kartikelearn/LeetCode-Practices/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/kartikelearn/LeetCode-Practices/tree/master/3871-count-commas-in-range-ii) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/kartikelearn/LeetCode-Practices/tree/master/0136-single-number) |
 | [0187-repeated-dna-sequences](https://github.com/kartikelearn/LeetCode-Practices/tree/master/0187-repeated-dna-sequences) |
+| [0231-power-of-two](https://github.com/kartikelearn/LeetCode-Practices/tree/master/0231-power-of-two) |
 ## Quicksort
 |  |
 | ------- |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/kartikelearn/LeetCode-Practices/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/kartikelearn/LeetCode-Practices/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
