@@ -1,11 +1,13 @@
+from functools import cache
 # Definition for singly-linked list.
 # class ListNode:
 #     def __init__(self, val=0, next=None):
 #         self.val = val
 #         self.next = next
 class Solution:
+    @cache
     def reverseList(self, head: ListNode | None) -> ListNode | None:
-
+    
         # do it on copy-pen then it will be right
 
 
@@ -32,7 +34,6 @@ class Solution:
         # return head
 
 # Average
-
         if head==None:
             return None
         newHead=head
