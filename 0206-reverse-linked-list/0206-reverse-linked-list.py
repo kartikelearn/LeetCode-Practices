@@ -5,22 +5,41 @@
 #         self.next = next
 class Solution:
     def reverseList(self, head: ListNode | None) -> ListNode | None:
-        prev, curr=None, head
-        while curr is not None:
-            nxt=curr.next
-            curr.next=prev
-            prev=curr
-            curr=nxt
-        return prev
+
+        # do it on copy-pen then it will be right
 
 
-        # if head==None:
-        #     return None
-        # newHead=head
-        # if head.next!=None:
-        #     newHead=self.reverseList(head.next)
-        #     head.next.next=head
-        # head.next=None
-        # return newHead
+        # prev, curr=None, head
+        # while curr is not None:
+        #     next=curr.next
+        #     curr.next=prev
+        #     prev=curr
+        #     curr=next
+        # return prev
+
+        #Brute
+
+        # temp = head # temp is basically the current node
+        # stack=[]
+        # while temp is not None:
+        #     stack.append(temp.val)
+        #     temp=temp.next
+        # temp=head
+        # while temp is not None:
+        #     el=stack.pop()
+        #     temp.val=el
+        #     temp=temp.next
+        # return head
+
+# Average
+
+        if head==None:
+            return None
+        newHead=head
+        if head.next!=None:
+            newHead=self.reverseList(head.next)
+            head.next.next=head
+        head.next=None
+        return newHead
 
         
