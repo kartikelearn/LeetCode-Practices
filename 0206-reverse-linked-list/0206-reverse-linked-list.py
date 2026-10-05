@@ -11,7 +11,8 @@ class Solution:
         # do it on copy-pen then it will be right
 
 
-        # prev, curr=None, head
+        # prev=None
+        # curr=head
         # while curr is not None:
         #     next=curr.next
         #     curr.next=prev
@@ -34,13 +35,11 @@ class Solution:
         # return head
 
 # Average
-        if head==None:
-            return None
-        newHead=head
-        if head.next!=None:
-            newHead=self.reverseList(head.next)
-            head.next.next=head
+        if head is None or head.next is None:
+            return head
+        prev=self.reverseList(head.next)
+        head.next.next=head
         head.next=None
-        return newHead
+        return prev
 
         
