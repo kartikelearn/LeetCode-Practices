@@ -5,18 +5,18 @@
 #         self.next = next
 class Solution:
     def mergeTwoLists(self, list1: ListNode | None, list2: ListNode | None) -> ListNode | None:
-        # dummy=ListNode(0)
-        # current=dummy
+        # result=ListNode(0)
+        # head=result
         # while list1!=None and list2!=None:
         #     if list1.val <= list2.val:
-        #         current.next = list1
+        #         head.next = list1
         #         list1 = list1.next
         #     else:
-        #         current.next=list2
+        #         head.next=list2
         #         list2=list2.next
-        #     current=current.next
-        # current.next=list1 if list1 else list2
-        # return dummy.next
+        #     head=head.next
+        # head.next=list1 if list1 else list2
+        # return result.next
 
     # Recursive App
         if not list1:
