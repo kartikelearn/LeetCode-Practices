@@ -6,9 +6,17 @@ from functools import cache
 #         self.next = next
 class Solution:
     def reverseList(self, head: ListNode | None) -> ListNode | None:
-        if head is None or head.next is None:
-            return head
-        prev=self.reverseList(head.next)
-        head.next.next=head
-        head.next=None
+        prev=None
+        curr=head
+        while curr is not None:
+            next=curr.next
+            curr.next=prev
+            prev=curr
+            curr=next
         return prev
+        # if head is None or head.next is None:
+        #     return head
+        # prev=self.reverseList(head.next)
+        # head.next.next=head
+        # head.next=None
+        # return prev
