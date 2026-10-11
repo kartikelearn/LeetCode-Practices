@@ -21,11 +21,11 @@ class Solution:
         # return count
 
 # Optimal
-        def find(root):
             if root is None:
                 return 0
-            lh=find(root.left)
-            rh=find(root.right)
-            return 1+max(lh,rh)
-        return find(root)
+            return 1 + max(self.maxDepth(root.right), self.maxDepth(root.left))
+        #     lh=self.maxDepth(root.left)
+        #     rh=self.maxDepth(root.right)
+        #     return 1+max(lh,rh)
+        # return find(root)
 
