@@ -11,7 +11,8 @@ class Solution:
         # root.left,root.right=self.invertTree(root.right),self.invertTree(root.left)
         # return root
 
-        # Try the iterative one
+        # Try the iterative one,
+        # So finally i did this on my first attempt as it was an easy level question.. all fine
         if not root:
             return None
         queue=deque([root])
