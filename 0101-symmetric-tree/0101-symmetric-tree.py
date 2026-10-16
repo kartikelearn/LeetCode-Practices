@@ -14,7 +14,7 @@ class Solution(object):
                 return False
             if left.val!=right.val:
                 return False
-            return Mirror(left.left,right.right) and Mirror(left.right,right.left)
+            return (Mirror(left.left,right.right) and Mirror(left.right,right.left))
         return Mirror(root.left,root.right)
         
         
