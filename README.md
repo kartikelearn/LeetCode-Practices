@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kartikelearn/LeetCode-Practices/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0022-generate-parentheses](https://github.com/kartikelearn/LeetCode-Practices/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/kartikelearn/LeetCode-Practices/tree/master/0049-group-anagrams) |
 | [0187-repeated-dna-sequences](https://github.com/kartikelearn/LeetCode-Practices/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/kartikelearn/LeetCode-Practices/tree/master/0205-isomorphic-strings) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/kartikelearn/LeetCode-Practices/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/kartikelearn/LeetCode-Practices/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kartikelearn/LeetCode-Practices/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/kartikelearn/LeetCode-Practices/tree/master/0509-fibonacci-number) |
@@ -199,4 +201,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/kartikelearn/LeetCode-Practices/tree/master/0162-find-peak-element) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/kartikelearn/LeetCode-Practices/tree/master/0022-generate-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/kartikelearn/LeetCode-Practices/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
