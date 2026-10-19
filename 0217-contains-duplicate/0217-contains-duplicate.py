@@ -1,13 +1,9 @@
-from collections import Counter
-class Solution:
-    def containsDuplicate(self, nums: List[int]) -> bool:
-        # return len(nums)!=len(set(nums))
-        # freq=Counter(nums)
-        # return any(value>1 for value in freq.values())
-        nums_set=set()
+class Solution(object):
+    def containsDuplicate(self, nums):
+        uniques=set()
         for el in nums:
-            if el in nums_set:
+            if el in uniques:
                 return True
-            nums_set.add(el)
+            uniques.add(el)
         return False
-            
+    
