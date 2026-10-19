@@ -9,4 +9,13 @@ class Solution(object):
                 return False
         return True
 
-        
+
+
+        # # return Counter(s)==Counter(t)
+        # ans=defaultdict(int)
+        # for el in s:
+        #     ans[el]+=1
+        # # ans=Counter(s) we can also use this.. instead
+        # for el in t:
+        #     ans[el]-=1
+        # return all(values==0 for values in ans.values())
