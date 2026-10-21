@@ -1,11 +1,18 @@
-import collections as defauldict
-class Solution:
-    def groupAnagrams(self, strs: List[str]) -> List[List[str]]:
-        r_dic=defaultdict(list)
+from collections import defaultdict
+class Solution(object):
+    def groupAnagrams(self, strs):
+        """
+        :type strs: List[str]
+        :rtype: List[List[str]]
+        """
+        groups=defaultdict(list)
         result=[]
-        for s in strs:
-            sorted_s=tuple(sorted(s))
-            r_dic[sorted_s].append(s)
-        for values in r_dic.values():
-            result.append(values)
+        for el in strs:
+            sorted_str=tuple(sorted(el))
+            groups[sorted_str].append(el)
+        for value in groups.values():
+            result.append(value)
         return result
+
+
+        
