@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/kartikelearn/LeetCode-Practices/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/kartikelearn/LeetCode-Practices/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/kartikelearn/LeetCode-Practices/tree/master/0387-first-unique-character-in-a-string) |
+| [0706-design-hashmap](https://github.com/kartikelearn/LeetCode-Practices/tree/master/0706-design-hashmap) |
 | [0811-subdomain-visit-count](https://github.com/kartikelearn/LeetCode-Practices/tree/master/0811-subdomain-visit-count) |
 ## String
 |  |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/kartikelearn/LeetCode-Practices/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/kartikelearn/LeetCode-Practices/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/kartikelearn/LeetCode-Practices/tree/master/0643-maximum-average-subarray-i) |
+| [0706-design-hashmap](https://github.com/kartikelearn/LeetCode-Practices/tree/master/0706-design-hashmap) |
 | [0811-subdomain-visit-count](https://github.com/kartikelearn/LeetCode-Practices/tree/master/0811-subdomain-visit-count) |
 | [0977-squares-of-a-sorted-array](https://github.com/kartikelearn/LeetCode-Practices/tree/master/0977-squares-of-a-sorted-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/kartikelearn/LeetCode-Practices/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/kartikelearn/LeetCode-Practices/tree/master/0187-repeated-dna-sequences) |
+| [0706-design-hashmap](https://github.com/kartikelearn/LeetCode-Practices/tree/master/0706-design-hashmap) |
 ## Z Algorithm
 |  |
 | ------- |
@@ -172,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/kartikelearn/LeetCode-Practices/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/kartikelearn/LeetCode-Practices/tree/master/0024-swap-nodes-in-pairs) |
 | [0206-reverse-linked-list](https://github.com/kartikelearn/LeetCode-Practices/tree/master/0206-reverse-linked-list) |
+| [0706-design-hashmap](https://github.com/kartikelearn/LeetCode-Practices/tree/master/0706-design-hashmap) |
 ## Tree
 |  |
 | ------- |
@@ -226,4 +230,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/kartikelearn/LeetCode-Practices/tree/master/0128-longest-consecutive-sequence) |
+## Design
+|  |
+| ------- |
+| [0706-design-hashmap](https://github.com/kartikelearn/LeetCode-Practices/tree/master/0706-design-hashmap) |
 <!---LeetCode Topics End-->
