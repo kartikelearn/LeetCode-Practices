@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0705-design-hashset](https://github.com/kartikelearn/LeetCode-Practices/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/kartikelearn/LeetCode-Practices/tree/master/0706-design-hashmap) |
 | [0811-subdomain-visit-count](https://github.com/kartikelearn/LeetCode-Practices/tree/master/0811-subdomain-visit-count) |
+| [1207-unique-number-of-occurrences](https://github.com/kartikelearn/LeetCode-Practices/tree/master/1207-unique-number-of-occurrences) |
 ## String
 |  |
 | ------- |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0706-design-hashmap](https://github.com/kartikelearn/LeetCode-Practices/tree/master/0706-design-hashmap) |
 | [0811-subdomain-visit-count](https://github.com/kartikelearn/LeetCode-Practices/tree/master/0811-subdomain-visit-count) |
 | [0977-squares-of-a-sorted-array](https://github.com/kartikelearn/LeetCode-Practices/tree/master/0977-squares-of-a-sorted-array) |
+| [1207-unique-number-of-occurrences](https://github.com/kartikelearn/LeetCode-Practices/tree/master/1207-unique-number-of-occurrences) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/kartikelearn/LeetCode-Practices/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [3875-construct-uniform-parity-array-i](https://github.com/kartikelearn/LeetCode-Practices/tree/master/3875-construct-uniform-parity-array-i) |
 ## Counting
