@@ -8,3 +8,19 @@ class Solution:
             l.append(values)
             s.add(values)
         return len(l)==len(s)
+
+
+        # counts = Counter(arr).values()
+        # return len(counts) == len(set(counts))
+
+# Our Traditional Method without built-in things
+        # freq = {}
+
+        # for num in arr:
+        #     if num in freq:
+        #         freq[num] += 1
+        #     else:
+        #         freq[num] = 1
+
+        # counts = list(freq.values())
+        # return len(counts) == len(set(counts))
