@@ -220,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0175-combine-two-tables](https://github.com/kartikelearn/LeetCode-Practices/tree/master/0175-combine-two-tables) |
 | [0176-second-highest-salary](https://github.com/kartikelearn/LeetCode-Practices/tree/master/0176-second-highest-salary) |
 | [0177-nth-highest-salary](https://github.com/kartikelearn/LeetCode-Practices/tree/master/0177-nth-highest-salary) |
+| [0182-duplicate-emails](https://github.com/kartikelearn/LeetCode-Practices/tree/master/0182-duplicate-emails) |
 ## Binary Search
 |  |
 | ------- |
