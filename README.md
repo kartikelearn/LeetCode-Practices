@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/kartikelearn/LeetCode-Practices/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/kartikelearn/LeetCode-Practices/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/kartikelearn/LeetCode-Practices/tree/master/0242-valid-anagram) |
+| [0380-insert-delete-getrandom-o1](https://github.com/kartikelearn/LeetCode-Practices/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/kartikelearn/LeetCode-Practices/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/kartikelearn/LeetCode-Practices/tree/master/0387-first-unique-character-in-a-string) |
 | [0705-design-hashset](https://github.com/kartikelearn/LeetCode-Practices/tree/master/0705-design-hashset) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/kartikelearn/LeetCode-Practices/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/kartikelearn/LeetCode-Practices/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/kartikelearn/LeetCode-Practices/tree/master/0283-move-zeroes) |
+| [0380-insert-delete-getrandom-o1](https://github.com/kartikelearn/LeetCode-Practices/tree/master/0380-insert-delete-getrandom-o1) |
 | [0485-max-consecutive-ones](https://github.com/kartikelearn/LeetCode-Practices/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/kartikelearn/LeetCode-Practices/tree/master/0643-maximum-average-subarray-i) |
 | [0705-design-hashset](https://github.com/kartikelearn/LeetCode-Practices/tree/master/0705-design-hashset) |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/kartikelearn/LeetCode-Practices/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/kartikelearn/LeetCode-Practices/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/kartikelearn/LeetCode-Practices/tree/master/0326-power-of-three) |
+| [0380-insert-delete-getrandom-o1](https://github.com/kartikelearn/LeetCode-Practices/tree/master/0380-insert-delete-getrandom-o1) |
 | [0509-fibonacci-number](https://github.com/kartikelearn/LeetCode-Practices/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/kartikelearn/LeetCode-Practices/tree/master/1137-n-th-tribonacci-number) |
 | [3870-count-commas-in-range](https://github.com/kartikelearn/LeetCode-Practices/tree/master/3870-count-commas-in-range) |
@@ -243,6 +246,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/kartikelearn/LeetCode-Practices/tree/master/0380-insert-delete-getrandom-o1) |
 | [0705-design-hashset](https://github.com/kartikelearn/LeetCode-Practices/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/kartikelearn/LeetCode-Practices/tree/master/0706-design-hashmap) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/kartikelearn/LeetCode-Practices/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
